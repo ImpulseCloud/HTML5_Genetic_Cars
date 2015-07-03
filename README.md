@@ -1,8 +1,6 @@
-HTML5 Genetic Cars
+HTML5 Genetic Deadly Robot Dance
 ==================
 
-A genetic algorithm car evolver in HTML5 canvas.
+Going to completely change this code to work with punching robots
 
-This is inspired by BoxCar2D, and uses the same physics engine, Box2D, but it's written from scratch.
 
-This is the code as published on http://rednuht.org/genetic_cars_2/
